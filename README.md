@@ -1,7 +1,7 @@
 
 # Henrique Oliveira
 
-Olá, sou aluno de Ciência da Computação na [Univerisidade Federal do Ceará](https://www.ufc.br/) e estou buscando ampliar meus conhecimentos por meio do portal [Digital Innovation One](dio.me).
+Olá, sou aluno de Ciência da Computação na [Univerisidade Federal do Ceará](https://www.ufc.br/), tenho também um perfil na [Digital Innovation One](dio.me). Estou buscando ampliar e compartilhar meus conhecimentos.
 
 ### Onde você pode me encontrar:
 
